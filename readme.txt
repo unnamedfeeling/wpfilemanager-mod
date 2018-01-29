@@ -1,4 +1,7 @@
-﻿=== File Manager ===
+This plugin version is modded to work with bedrock!!!
+
+
+=== File Manager ===
 Contributors: mndpsingh287
 Donate link: http://www.webdesi9.com/donate/?plugin=wp-file-manager
 Tags: wp-file-manager, elfinder,file manager, ftp, wordpress file manager,file manager, Upload Files, WP File Manager, File Manage, Edit Files, Delete Files, FTP, filemanager, wpfilemanager, ftp, file transfer, update, create, delete, view, rename, editor, Cpanel, Control Panel, Admin, Shortcode
@@ -15,8 +18,8 @@ file manager provides you ability to edit, delete, upload, download, copy and pa
 
 #### File Manager provides you features to edit, delete, upload, download, copy and paste files and folders. You can easily copy, move files folder or any files from one location to another location.
 
-Multi Langauges Added 
-       
+Multi Langauges Added
+
 = Key Features in File Manager free Version Plugin =
 
 * **Operations:** Various operations with files and folders on a remote server (copy, move, upload, create folder/file, rename, edit, delete etc.)
@@ -47,9 +50,9 @@ Multi Langauges Added
 * **File system:** Local file system storage drivers.
 * **Edit file:** User can edit text files and images.
 * **Frontend Access:** User can access frontend using shortcode.
-* **Admin Email Notifications.** Admin will get a Notification whenever a file is updated. 
-* **Admin Email Notifications.** Admin will get a Notification whenever a file is Downloaded. 
-* **Admin Email Notifications.** Admin will get a Notification whenever a file is Edited. 
+* **Admin Email Notifications.** Admin will get a Notification whenever a file is updated.
+* **Admin Email Notifications.** Admin will get a Notification whenever a file is Downloaded.
+* **Admin Email Notifications.** Admin will get a Notification whenever a file is Edited.
 
 
 > <strong>[Buy Pro Version](http://filemanager.webdesi9.com/product/file-manager/)</strong> with various features & support.
@@ -68,7 +71,7 @@ Multi Langauges Added
 = Can we make zip of any folder or file and download it ? =
 Yes, You can archieve any files and folders as zip then simple download it. Please view screenshots.
 
-= Support = 
+= Support =
 * If any problem occurs, please contact us at webdesi9.com/support/
 
 ## How to use
